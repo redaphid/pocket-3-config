@@ -1,0 +1,23 @@
+kernelstub.Config    : INFO     Looking for configuration...
+kernelstub           : INFO     System information: 
+
+    OS:..................Pop!_OS 22.04
+    Root partition:....../dev/nvme0n1p3
+    Root FS UUID:........c77bb467-afa6-406e-9911-c847b80fd319
+    ESP Path:............/boot/efi
+    ESP Partition:......./dev/nvme0n1p1
+    ESP Partition #:.....1
+    NVRAM entry #:.......-1
+    Boot Variable #:.....0000
+    Kernel Boot Options:.resume=UUID=c77bb467-afa6-406e-9911-c847b80fd319 mem_sleep_default=s2idle video=DSI-1:panel_orientation=right_side_up fbcon=rotate:1 resume_offset=74868736
+    Kernel Image Path:.../boot/vmlinuz-6.2.6-76060206-generic
+    Initrd Image Path:.../boot/initrd.img-6.2.6-76060206-generic
+    Force-overwrite:.....False
+
+kernelstub           : INFO     Configuration details: 
+
+   ESP Location:................../boot/efi
+   Management Mode:...............True
+   Install Loader configuration:..True
+   Configuration version:.........3
+
